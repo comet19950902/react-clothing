@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+![image](https://github.com/comet19950902/react-clothing/assets/125123604/b2ef3f41-25e7-4294-ba4d-a24e3380d5d7)
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
